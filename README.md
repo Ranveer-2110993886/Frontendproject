@@ -1,4 +1,4 @@
-# Front End Project (Web Development Project) - QuickCinema 🍿
+# QuickCinema 🍿 (Web Development Project) 
 
 Quick Cinema is a responsive and intuitive movie website with a modern UI that allows users to easily explore and discover their favorite movies. One of its key features is the dynamic movie plot display when a user hovers over a movie poster. The website is powered by the TMDB API.
 
