@@ -22,3 +22,6 @@ Quick Cinema is a responsive and intuitive movie website with a modern UI that a
 </ul>
 
 ## Screenshots
+
+<img width = "600px" src = "https://github.com/Ranveer-2110993886/Frontendproject/blob/main/screenshots/Quick%20Cinema1.png">
+<img width = "600px" src = "https://github.com/Ranveer-2110993886/Frontendproject/blob/main/screenshots/Quick%20Cinema2.png">
